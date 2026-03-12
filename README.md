@@ -1,4 +1,4 @@
-# my_first_app
+# project_5_TripleTen
 Repository to do my first app project with vehicles data sells.
 Used python, plotly-express and streamlit for code.
 
